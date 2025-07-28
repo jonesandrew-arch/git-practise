@@ -1,3 +1,3 @@
 course= "Python course for beginners"
 import math
-print(math.floor(-3.4))
+print("i am really a lover boy")
