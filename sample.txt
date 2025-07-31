@@ -2,3 +2,4 @@ hi this is Jones just livin
 Enter this as my second line in the text
 hi how are you
 this is my third line and itll prolly be a merge conflict
+add new line
